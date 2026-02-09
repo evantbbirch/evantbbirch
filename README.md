@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Project(s):</h2>
 
-- <b>osTicket (Help Desk Ticketing System) using Microsoft Azure</b>
+- <b>osTicket (Help Desk Ticketing System) implementation using Microsoft Azure environment</b>
   - [osTicket: Prerequisites and Installation](https://github.com/evantbbirch/osticket-prereqs-and-install)
   - [osTicket: Post-Installation Configuration](https://github.com/evantbbirch/osticket-postinstall-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/evantbbirch/osticket-ticket-lifecycle)
