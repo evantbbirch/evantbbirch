@@ -1,4 +1,4 @@
-<h1>Hello,<br>My name is Evan Birch, and I'm an <a href="https://www.linkedin.com/in/evantbbirch/">IT Professional</a></h1>
+<h1>Hello<br>My name is Evan Birch, and I'm an <a href="https://www.linkedin.com/in/evantbbirch/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Project(s):</h2>
 
